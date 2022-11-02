@@ -221,14 +221,21 @@ assignments = {
       "title": "Quiz 19",
       "course": "CS 168",
       "dueDate": "2022-11-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/411449",
+      "link": "https://www.gradescope.com/courses/411449/assignments/2403931/submissions/new",
       "submitted": false
     },
     {
       "title": "Quiz 20",
       "course": "CS 168",
       "dueDate": "2022-11-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/411449",
+      "link": "https://www.gradescope.com/courses/411449/assignments/2403956/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Quiz 21",
+      "course": "CS 168",
+      "dueDate": "2022-11-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/411449/assignments/2404037/submissions/new",
       "submitted": false
     }
   ],
@@ -542,6 +549,13 @@ assignments = {
       "dueDate": "2022-11-01T23:59:00",
       "link": "https://www.gradescope.com/courses/406561/assignments/2383829/submissions/145131293",
       "submitted": true
+    },
+    {
+      "title": "Lab 9: Block and Stream Ciphers",
+      "course": "Codebreaking At Cal",
+      "dueDate": "2022-11-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/406561",
+      "submitted": false
     }
   ]
 };
