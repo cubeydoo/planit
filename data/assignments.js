@@ -421,6 +421,41 @@ assignments = {
       "dueDate": "2022-10-10T23:59:00",
       "link": "https://www.gradescope.com/courses/414436/assignments/2333170/submissions/139887616",
       "submitted": true
+    },
+    {
+      "title": "[PRACTICE] Vitamin 6: Iterators and Joins & Relational Algebra",
+      "course": "CS 186",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/414436/assignments/2411055/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 7: Query Optimization",
+      "course": "CS 186",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/414436/assignments/2411056/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 8: Transactions and Concurrency",
+      "course": "CS 186",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/414436/assignments/2411057/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 9: Recovery",
+      "course": "CS 186",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/414436/assignments/2411058/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 10: DB Design",
+      "course": "CS 186",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/414436/assignments/2411060/submissions/new",
+      "submitted": false
     }
   ],
   "Codebreaking At Cal": [
