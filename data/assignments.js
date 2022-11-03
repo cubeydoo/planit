@@ -214,8 +214,8 @@ assignments = {
       "title": "Quiz 18",
       "course": "CS 168",
       "dueDate": "2022-11-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/411449/assignments/2390911/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/411449/assignments/2390911/submissions/146014054",
+      "submitted": true
     },
     {
       "title": "Quiz 19",
@@ -293,8 +293,8 @@ assignments = {
       "title": "[GRADED] Vitamin 9: Recovery",
       "course": "CS 186",
       "dueDate": "2022-11-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2153857/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/414436/assignments/2153857/submissions/146024808",
+      "submitted": true
     },
     {
       "title": "[GRADED] Project 1",
