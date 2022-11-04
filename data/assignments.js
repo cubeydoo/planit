@@ -454,7 +454,7 @@ assignments = {
       "title": "[PRACTICE] Vitamin 10: DB Design",
       "course": "CS 186",
       "dueDate": "2022-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2411060/submissions/new",
+      "link": "https://www.gradescope.com/courses/414436/assignments/2411413/submissions/new",
       "submitted": false
     }
   ],
