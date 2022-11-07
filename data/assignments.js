@@ -454,8 +454,8 @@ assignments = {
       "title": "[PRACTICE] Vitamin 9: Recovery",
       "course": "CS 186",
       "dueDate": "2022-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2411058/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/414436/assignments/2411058/submissions/147085670",
+      "submitted": true
     },
     {
       "title": "[PRACTICE] Vitamin 10: DB Design",
