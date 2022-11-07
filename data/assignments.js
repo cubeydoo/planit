@@ -342,8 +342,8 @@ assignments = {
       "title": "[GRADED] Vitamin 10: DB Design",
       "course": "CS 186",
       "dueDate": "2022-11-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2180567/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/414436/assignments/2180567/submissions/146912187",
+      "submitted": true
     },
     {
       "title": "[GRADED] Project 4 Part 1",
