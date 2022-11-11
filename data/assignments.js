@@ -369,7 +369,7 @@ assignments = {
     {
       "title": "[GRADED] Project 4 Part 2",
       "course": "CS 186",
-      "dueDate": "2022-11-11T23:59:00",
+      "dueDate": "2022-11-13T23:59:00",
       "link": "https://www.gradescope.com/courses/414436",
       "submitted": false
     },
