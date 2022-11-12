@@ -207,8 +207,8 @@ assignments = {
       "title": "Project 2",
       "course": "CS 168",
       "dueDate": "2022-11-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/411449",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/411449/assignments/2384799/submissions/148250559",
+      "submitted": true
     },
     {
       "title": "Quiz 18",
