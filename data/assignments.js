@@ -235,7 +235,7 @@ assignments = {
       "title": "Quiz 21",
       "course": "CS 168",
       "dueDate": "2022-11-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/411449/assignments/2404037/submissions/new",
+      "link": "https://www.gradescope.com/courses/411449",
       "submitted": false
     },
     {
