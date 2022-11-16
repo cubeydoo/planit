@@ -384,7 +384,7 @@ assignments = {
       "title": "[GRADED] Project 4 Part 2",
       "course": "CS 186",
       "dueDate": "2022-11-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2180576/submissions/148626155",
+      "link": "https://www.gradescope.com/courses/414436/assignments/2180576/submissions/149088377",
       "submitted": true
     },
     {
@@ -638,7 +638,7 @@ assignments = {
       "title": "Vitamin: Week 10",
       "course": "Codebreaking At Cal",
       "dueDate": "2022-11-15T18:00:00",
-      "link": "https://www.gradescope.com/courses/406561/assignments/2423820/submissions/new",
+      "link": "https://www.gradescope.com/courses/406561",
       "submitted": false
     }
   ]
