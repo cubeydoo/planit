@@ -647,6 +647,13 @@ assignments = {
       "dueDate": "2022-11-22T23:59:00",
       "link": "https://www.gradescope.com/courses/406561",
       "submitted": false
+    },
+    {
+      "title": "Vitamin: Week 11",
+      "course": "Codebreaking At Cal",
+      "dueDate": "2022-11-22T18:30:00",
+      "link": "https://www.gradescope.com/courses/406561/assignments/2449485/submissions/new",
+      "submitted": false
     }
   ]
 };
