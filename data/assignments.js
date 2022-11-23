@@ -659,8 +659,8 @@ assignments = {
       "title": "Final Project: Part 1",
       "course": "Codebreaking At Cal",
       "dueDate": "2022-11-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/406561",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/406561/assignments/2438445/submissions/150620251",
+      "submitted": true
     },
     {
       "title": "Vitamin: Week 11",
@@ -716,6 +716,13 @@ assignments = {
       "course": "Codebreaking At Cal",
       "dueDate": "2022-12-09T23:59:00",
       "link": "https://www.gradescope.com/courses/406561/assignments/2459061/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Vitamin: Week 12",
+      "course": "Codebreaking At Cal",
+      "dueDate": "2022-11-29T18:30:00",
+      "link": "https://www.gradescope.com/courses/406561/assignments/2459122/submissions/new",
       "submitted": false
     }
   ]
