@@ -666,7 +666,56 @@ assignments = {
       "title": "Vitamin: Week 11",
       "course": "Codebreaking At Cal",
       "dueDate": "2022-11-22T18:30:00",
-      "link": "https://www.gradescope.com/courses/406561/assignments/2449485/submissions/new",
+      "link": "https://www.gradescope.com/courses/406561",
+      "submitted": false
+    },
+    {
+      "title": "Final Project: Challenge 4",
+      "course": "Codebreaking At Cal",
+      "dueDate": "2022-12-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/406561/assignments/2458295/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Final Project: Challenge 5",
+      "course": "Codebreaking At Cal",
+      "dueDate": "2022-12-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/406561/assignments/2458792/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Final Project: Challenge 6",
+      "course": "Codebreaking At Cal",
+      "dueDate": "2022-12-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/406561/assignments/2458847/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Final Project: Challenge 1",
+      "course": "Codebreaking At Cal",
+      "dueDate": "2022-12-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/406561/assignments/2458985/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Final Project: Challenge 2",
+      "course": "Codebreaking At Cal",
+      "dueDate": "2022-12-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/406561/assignments/2459002/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Final Project: Challenge 3",
+      "course": "Codebreaking At Cal",
+      "dueDate": "2022-12-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/406561/assignments/2459050/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Final Project: Challenge 7",
+      "course": "Codebreaking At Cal",
+      "dueDate": "2022-12-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/406561/assignments/2459061/submissions/new",
       "submitted": false
     }
   ]
