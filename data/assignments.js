@@ -724,6 +724,20 @@ assignments = {
       "dueDate": "2022-11-29T18:30:00",
       "link": "https://www.gradescope.com/courses/406561/assignments/2459122/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Final Project: Challenge 8",
+      "course": "Codebreaking At Cal",
+      "dueDate": "2022-12-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/406561/assignments/2461059/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Final Project: Challenge 9",
+      "course": "Codebreaking At Cal",
+      "dueDate": "2022-12-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/406561/assignments/2461065/submissions/new",
+      "submitted": false
     }
   ]
 };
