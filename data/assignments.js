@@ -750,8 +750,8 @@ assignments = {
       "title": "Vitamin: Week 13",
       "course": "Codebreaking At Cal",
       "dueDate": "2022-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/406561/assignments/2469516/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/406561/assignments/2469516/submissions/152311598",
+      "submitted": true
     }
   ]
 };
