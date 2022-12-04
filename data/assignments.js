@@ -498,6 +498,13 @@ assignments = {
       "dueDate": "2022-12-31T23:59:00",
       "link": "https://www.gradescope.com/courses/414436/assignments/2411413/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Grade Report",
+      "course": "CS 186",
+      "dueDate": "2022-12-04T16:00:00",
+      "link": "https://www.gradescope.com/courses/414436/assignments/2478794/submissions/152296896",
+      "submitted": true
     }
   ],
   "Codebreaking At Cal": [
