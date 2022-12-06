@@ -405,8 +405,8 @@ assignments = {
       "title": "[GRADED] Project 6",
       "course": "CS 186",
       "dueDate": "2022-12-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/414436/assignments/2180578/submissions/152729027",
+      "submitted": true
     },
     {
       "title": "[REQUIRED] Project 0 Debugging Exercise",
