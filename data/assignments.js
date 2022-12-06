@@ -244,6 +244,62 @@ assignments = {
       "dueDate": "2022-11-29T23:59:00",
       "link": "https://www.gradescope.com/courses/411449",
       "submitted": false
+    },
+    {
+      "title": "Quiz 14 (Practice)",
+      "course": "CS 168",
+      "dueDate": "2022-10-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/411449",
+      "submitted": false
+    },
+    {
+      "title": "Quiz 15 (Practice)",
+      "course": "CS 168",
+      "dueDate": "2022-12-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/411449/assignments/2485444/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Quiz 16 (Practice)",
+      "course": "CS 168",
+      "dueDate": "2022-10-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/411449",
+      "submitted": false
+    },
+    {
+      "title": "Quiz 17 (Practice)",
+      "course": "CS 168",
+      "dueDate": "2022-10-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/411449",
+      "submitted": false
+    },
+    {
+      "title": "Quiz 18 (Practice)",
+      "course": "CS 168",
+      "dueDate": "2022-11-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/411449",
+      "submitted": false
+    },
+    {
+      "title": "Quiz 19 (Practice)",
+      "course": "CS 168",
+      "dueDate": "2022-11-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/411449",
+      "submitted": false
+    },
+    {
+      "title": "Quiz 20 (Practice)",
+      "course": "CS 168",
+      "dueDate": "2022-11-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/411449",
+      "submitted": false
+    },
+    {
+      "title": "Quiz 21 (Practice)",
+      "course": "CS 168",
+      "dueDate": "2022-11-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/411449",
+      "submitted": false
     }
   ],
   "CS 186": [
