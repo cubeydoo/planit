@@ -764,8 +764,8 @@ assignments = {
       "title": "Final Project: Challenge 2",
       "course": "Codebreaking At Cal",
       "dueDate": "2022-12-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/406561/assignments/2459002/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/406561/assignments/2459002/submissions/153159394",
+      "submitted": true
     },
     {
       "title": "Final Project: Challenge 3",
