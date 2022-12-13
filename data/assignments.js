@@ -561,6 +561,27 @@ assignments = {
       "dueDate": "2022-12-31T16:00:00",
       "link": "https://www.gradescope.com/courses/414436/assignments/2478794/submissions/152301235",
       "submitted": true
+    },
+    {
+      "title": "[PRACTICE] Vitamin 11: Parallel Query Processing",
+      "course": "CS 186",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/414436/assignments/2504759/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 12: Distributed Transactions",
+      "course": "CS 186",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/414436/assignments/2504761/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "[PRACTICE] Vitamin 13: NoSQL",
+      "course": "CS 186",
+      "dueDate": "2022-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/414436/assignments/2504764/submissions/new",
+      "submitted": false
     }
   ],
   "Codebreaking At Cal": [
