@@ -404,7 +404,7 @@ assignments = {
     {
       "title": "[GRADED] Vitamin 5: Hashing",
       "course": "CS 186",
-      "dueDate": "2022-10-05T23:59:00",
+      "dueDate": "2022-10-17T23:59:00",
       "link": "https://www.gradescope.com/courses/414436/assignments/2180566/submissions/138727499",
       "submitted": true
     },
