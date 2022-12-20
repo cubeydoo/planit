@@ -771,7 +771,7 @@ assignments = {
       "title": "Final Project: Challenge 6",
       "course": "Codebreaking At Cal",
       "dueDate": "2022-12-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/406561/assignments/2458847/submissions/new",
+      "link": "https://www.gradescope.com/courses/406561",
       "submitted": false
     },
     {
@@ -799,7 +799,7 @@ assignments = {
       "title": "Final Project: Challenge 7",
       "course": "Codebreaking At Cal",
       "dueDate": "2022-12-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/406561/assignments/2459061/submissions/new",
+      "link": "https://www.gradescope.com/courses/406561",
       "submitted": false
     },
     {
@@ -813,14 +813,14 @@ assignments = {
       "title": "Final Project: Challenge 8",
       "course": "Codebreaking At Cal",
       "dueDate": "2022-12-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/406561/assignments/2461059/submissions/new",
+      "link": "https://www.gradescope.com/courses/406561",
       "submitted": false
     },
     {
       "title": "Final Project: Challenge 9",
       "course": "Codebreaking At Cal",
       "dueDate": "2022-12-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/406561/assignments/2461065/submissions/new",
+      "link": "https://www.gradescope.com/courses/406561",
       "submitted": false
     },
     {
