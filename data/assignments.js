@@ -482,21 +482,21 @@ assignments = {
       "title": "[PRACTICE] Vitamin 1: SQL",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2301380/submissions/new",
+      "link": "https://www.gradescope.com/courses/414436",
       "submitted": false
     },
     {
       "title": "[PRACTICE] Vitamin 2: Disks, Buffers, Files",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2301381/submissions/new",
+      "link": "https://www.gradescope.com/courses/414436",
       "submitted": false
     },
     {
       "title": "[PRACTICE] Vitamin 3: B+ Trees",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2301382/submissions/new",
+      "link": "https://www.gradescope.com/courses/414436",
       "submitted": false
     },
     {
@@ -510,7 +510,7 @@ assignments = {
       "title": "[PRACTICE] Vitamin 5: Hashing",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2301385/submissions/new",
+      "link": "https://www.gradescope.com/courses/414436",
       "submitted": false
     },
     {
@@ -524,21 +524,21 @@ assignments = {
       "title": "[PRACTICE] Vitamin 6: Iterators and Joins & Relational Algebra",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2411055/submissions/new",
+      "link": "https://www.gradescope.com/courses/414436",
       "submitted": false
     },
     {
       "title": "[PRACTICE] Vitamin 7: Query Optimization",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2411056/submissions/new",
+      "link": "https://www.gradescope.com/courses/414436",
       "submitted": false
     },
     {
       "title": "[PRACTICE] Vitamin 8: Transactions and Concurrency",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2411057/submissions/new",
+      "link": "https://www.gradescope.com/courses/414436",
       "submitted": false
     },
     {
@@ -552,7 +552,7 @@ assignments = {
       "title": "[PRACTICE] Vitamin 10: DB Design",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2411413/submissions/new",
+      "link": "https://www.gradescope.com/courses/414436",
       "submitted": false
     },
     {
@@ -566,21 +566,21 @@ assignments = {
       "title": "[PRACTICE] Vitamin 11: Parallel Query Processing",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2504759/submissions/new",
+      "link": "https://www.gradescope.com/courses/414436",
       "submitted": false
     },
     {
       "title": "[PRACTICE] Vitamin 12: Distributed Transactions",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2504761/submissions/new",
+      "link": "https://www.gradescope.com/courses/414436",
       "submitted": false
     },
     {
       "title": "[PRACTICE] Vitamin 13: NoSQL",
       "course": "CS 186",
       "dueDate": "2023-12-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/414436/assignments/2504764/submissions/new",
+      "link": "https://www.gradescope.com/courses/414436",
       "submitted": false
     }
   ],
