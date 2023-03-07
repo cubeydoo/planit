@@ -31,14 +31,14 @@ assignments = {
     {
       "title": "Participation Tracker",
       "course": "CS 184/284A",
-      "dueDate": "2023-02-24T08:00:00",
+      "dueDate": "2023-05-20T08:00:00",
       "link": "https://www.gradescope.com/courses/483806/assignments/2665249/submissions/163892965",
       "submitted": true
     },
     {
       "title": "Project 3-1 Checkpoint",
       "course": "CS 184/284A",
-      "dueDate": "2023-03-07T23:59:00",
+      "dueDate": "2023-03-08T23:59:00",
       "link": "https://www.gradescope.com/courses/483806/assignments/2688745/submissions/new",
       "submitted": false
     },
@@ -74,8 +74,8 @@ assignments = {
       "title": "Practice Exam 1",
       "course": "CS 184/284A",
       "dueDate": "2023-03-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/483806/assignments/2721966/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/483806/assignments/2721966/submissions/166877358",
+      "submitted": true
     }
   ]
 };
